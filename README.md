@@ -7,7 +7,7 @@ I am an Automation & Robotics Engineering student currently completing my Master
 ---
 
 ### 🔍 Current Work
-- 🎓 **Master's Thesis:** Working on **Open Multi-Agent Systems** (Python), focusing on decentralized coordination and dynamic environments.
+- 🎓 **Master's Thesis:** Working on **Open Multi-Agent Systems** (Python) at IST (Universität Stuttgart), focusing on decentralized coordination and dynamic environments.
 - 📍 **Location:** Based in Stuttgart, Germany.
 - 🤖 **Main Interests:** Advanced Control (NMPC, Adaptive), Multi-Agent Systems, and ROS2.
 
