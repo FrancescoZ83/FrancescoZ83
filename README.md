@@ -14,7 +14,7 @@ I am an Automation & Robotics Engineering student currently completing my Master
 ### 🛠 Tech Stack
 - **Control & Math:** MATLAB, Simulink (NMPC, Adaptive Control, Observers).
 - **Robotics:** ROS2, Gazebo, RViz.
-- **Programming:** Python, C++, Linux (Ubuntu).
+- **Programming:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), C++, Linux (Ubuntu).
 - **Tools:** Docker, Git.
 
 ### 🚀 Projects
