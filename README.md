@@ -12,8 +12,8 @@ I am an Automation & Robotics Engineering student currently completing my Master
 - 🤖 **Main Interests:** Advanced Control (NMPC, Adaptive), Multi-Agent Systems, and ROS2.
 
 ### 🛠 Tech Stack
-- **Control & Math:** MATLAB, Simulink (NMPC, Adaptive Control, Observers).
-- **Robotics:** ROS2, Gazebo, RViz.
+- **Control & Math:** ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white), Simulink (NMPC, Adaptive Control, Observers).
+- **Robotics:** ![ROS2](https://img.shields.io/badge/ros2-%230A0FFF.svg?style=for-the-badge&logo=ros&logoColor=white), Gazebo, RViz.
 - **Programming:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), C++, Linux (Ubuntu).
 - **Tools:** Docker, Git.
 
