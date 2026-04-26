@@ -18,11 +18,10 @@ I am an Automation & Robotics Engineering student currently completing my Master
 - **Tools:** Docker, Git.
 
 ### 🚀 Projects
-- **[NMPC Drone Control]([link](https://github.com/FrancescoZ83/UAV-Trajectory-Tracking-Adaptive-NMPC-vs.-Observer-based-MPC)):** MATLAB implementation of a Nonlinear Model Predictive Control + Adaptive/Observer for UAV trajectory tracking.
+- **[NMPC Drone Control]((https://github.com/FrancescoZ83/UAV-Trajectory-Tracking-Adaptive-NMPC-vs.-Observer-based-MPC)):** MATLAB implementation of a Nonlinear Model Predictive Control + Adaptive/Observer for UAV trajectory tracking.
 - **[ROS2 Robotic Arm](https://github.com/FrancescoZ83/ROS2-Vision-Based-Control-System-KUKA-iiwa):** ROS2 control of a robotic arm for circular trajectories using ArUco tag visual feedback. Dockerized for easy deployment.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/tuo-profilo](link)
-- **Email:** [tua.email@provider.com]
+- **Email:** [francesco.zeolla.3@gmail.com]
