@@ -25,4 +25,4 @@ I am an Automation & Robotics Engineering student currently completing my Master
 
 ### 📫 Let's Connect
 - **Email:** [francesco.zeolla.3@gmail.com]
-- **LinkedIn** [Francesco Zeolla](www.linkedin.com/in/francesco-zeolla-54aa34410)
+- **LinkedIn** [Francesco Zeolla](https://www.linkedin.com/in/francesco-zeolla-54aa34410/)
